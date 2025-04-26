@@ -1,0 +1,12 @@
+/* Base styles are now defined in App.css */
+
+/* Reset some browser defaults */
+body, html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+#root {
+  height: 100%;
+}
